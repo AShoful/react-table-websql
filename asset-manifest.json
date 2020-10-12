@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactbigtablewebsql/static/css/main.3cf119ef.chunk.css",
-    "main.js": "/reactbigtablewebsql/static/js/main.3649a294.chunk.js",
-    "main.js.map": "/reactbigtablewebsql/static/js/main.3649a294.chunk.js.map",
-    "runtime-main.js": "/reactbigtablewebsql/static/js/runtime-main.1b970c42.js",
-    "runtime-main.js.map": "/reactbigtablewebsql/static/js/runtime-main.1b970c42.js.map",
-    "static/js/2.c3b143de.chunk.js": "/reactbigtablewebsql/static/js/2.c3b143de.chunk.js",
-    "static/js/2.c3b143de.chunk.js.map": "/reactbigtablewebsql/static/js/2.c3b143de.chunk.js.map",
-    "index.html": "/reactbigtablewebsql/index.html",
-    "precache-manifest.42b1bf355d0faaa54ed0d186a7ad445f.js": "/reactbigtablewebsql/precache-manifest.42b1bf355d0faaa54ed0d186a7ad445f.js",
-    "service-worker.js": "/reactbigtablewebsql/service-worker.js",
-    "static/css/main.3cf119ef.chunk.css.map": "/reactbigtablewebsql/static/css/main.3cf119ef.chunk.css.map",
-    "static/js/2.c3b143de.chunk.js.LICENSE.txt": "/reactbigtablewebsql/static/js/2.c3b143de.chunk.js.LICENSE.txt"
+    "main.css": "/react-table-websql/static/css/main.3cf119ef.chunk.css",
+    "main.js": "/react-table-websql/static/js/main.638c2bc2.chunk.js",
+    "main.js.map": "/react-table-websql/static/js/main.638c2bc2.chunk.js.map",
+    "runtime-main.js": "/react-table-websql/static/js/runtime-main.333e5dd6.js",
+    "runtime-main.js.map": "/react-table-websql/static/js/runtime-main.333e5dd6.js.map",
+    "static/js/2.c3b143de.chunk.js": "/react-table-websql/static/js/2.c3b143de.chunk.js",
+    "static/js/2.c3b143de.chunk.js.map": "/react-table-websql/static/js/2.c3b143de.chunk.js.map",
+    "index.html": "/react-table-websql/index.html",
+    "precache-manifest.c7425943262f06852aa0115710443ba2.js": "/react-table-websql/precache-manifest.c7425943262f06852aa0115710443ba2.js",
+    "service-worker.js": "/react-table-websql/service-worker.js",
+    "static/css/main.3cf119ef.chunk.css.map": "/react-table-websql/static/css/main.3cf119ef.chunk.css.map",
+    "static/js/2.c3b143de.chunk.js.LICENSE.txt": "/react-table-websql/static/js/2.c3b143de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b970c42.js",
+    "static/js/runtime-main.333e5dd6.js",
     "static/js/2.c3b143de.chunk.js",
     "static/css/main.3cf119ef.chunk.css",
-    "static/js/main.3649a294.chunk.js"
+    "static/js/main.638c2bc2.chunk.js"
   ]
 }
