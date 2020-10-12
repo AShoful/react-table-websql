@@ -39,10 +39,10 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://ashoful.github.io/reactbigtablewebsql",
+  "homepage": "http://ashoful.github.io/react-table-websql",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AShoful/ReactBigtableWebSQL.git"
+    "url": "git+https://github.com/AShoful/react-table-websql.git"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
